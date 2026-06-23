@@ -1,0 +1,6 @@
+{
+  "name": "Nourtem's World",
+  "description": "Step inside NOURTEM'S WORLD — a chaotic neon mind. Hit SWAG to dive into the memory stream and explore interactive visualization panels, a vinyl player, custom effects, and ambient sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
